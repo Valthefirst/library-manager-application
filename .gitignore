@@ -128,3 +128,45 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle files
+.gradle/
+build/
+
+# Compiled Java classes
+out/
+target/
+*.class
+
+# Various plugin settings and configurations
+*.log
+*.swp
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+build/
+dist/
+
+# Cache and log files
+.cache/
+npm-debug.log*
+
+# IDE files
+*.idea/
+*.iml
+.DS_Store
+
+# Miscellaneous
+*.log
+*.swp
