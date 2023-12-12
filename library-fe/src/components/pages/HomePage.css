@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    margin: auto;
+}
+
+.author-btn {
+    position: relative; 
+    left: 70em;
+    bottom: 1rem;
+}
+
+.book-btn {
+    position: relative; 
+    left: 70em;
+}
