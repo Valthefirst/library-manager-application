@@ -7,8 +7,7 @@ This library management application is designed to help you keep track of your p
 ---
 
 ## How to run the project
-
-
+Download the project and open the backend folder in an IDE of your choice and run it. Then go in the fontend folder (library-fe) in the termianl and run ``npm install`` then ``npm start``
 
 ---
 
@@ -26,7 +25,7 @@ For Authors
 - /api/v1/authors : POST
 - /api/v1/authors/{authorId} : PUT
 - /api/v1/authors/{authorId} : DELETE
-- 
+
 For Books
 - /api/v1/books : GET ALL
 - /api/v1/books/{bookId} : GET
@@ -53,8 +52,5 @@ Aggregate
 ![image](https://github.com/user-attachments/assets/bd2add14-0976-4579-84f1-74555d8def04)
 ![image](https://github.com/user-attachments/assets/aef8c5ee-c8fd-41c5-bbee-6021e33e7e7f)
 ![image](https://github.com/user-attachments/assets/2664f098-8d61-4292-ba13-29ac4a8159a7)
-
-
-
-
+![image](https://github.com/user-attachments/assets/0dfe7d9b-c571-48c3-8817-08bc57471cec)
 
